@@ -33,3 +33,4 @@ System restore point when done.
 
 YET to do:
 Update Displayfusion to version 7.2 for W10 support. (For multi-monitor setups.)
+3rd party details pane mod to put details on the bottom of window instead of on the side.  (Currently out for 8.1, do NOT use this version on W10 - will cause blue screens & will need to system restore.)
