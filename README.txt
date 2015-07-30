@@ -1,4 +1,7 @@
-W10 Upgrade log:
+Made this for friends and family who want to upgrade to Windows 10 securely & comfortably.
+
+W10 Upgrade log by Simon Ho:
+
 
 Make sure enough space.
 Change Data (100 MB if there) to some drive letter, like Y:
@@ -27,3 +30,6 @@ Winaero for customization.
 Regedit Old volume meter: http://winaero.com/blog/enable-old-volume-control-in-windows-10/
 
 System restore point when done.
+
+YET to do:
+Update Displayfusion to version 7.2 for W10 support. (For multi-monitor setups.)
