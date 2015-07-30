@@ -31,8 +31,11 @@ Personalization:
 Winaero for customization.
 Regedit Old volume meter: http://winaero.com/blog/enable-old-volume-control-in-windows-10/
 
+Updated Displayfusion to version 7.2 for W10 support. (For multi-monitor setups.)
+
 System restore point when done.
 
 YET to do:
-Update Displayfusion to version 7.2 for W10 support. (For multi-monitor setups.)
 3rd party details pane mod to put details on the bottom of window instead of on the side.  (Currently out for 8.1, do NOT use this version on W10 - will cause blue screens & will need to system restore.)
+
+Wait for Winaero update to fix the highlighting of title bars of windows on secondary monitor(s) when they're not in focus.
