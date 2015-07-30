@@ -12,7 +12,6 @@ Start W10 upg.
 Check Wi-fi.  Settings > Net > Wifi > Manage settings.
 Check update torrent off.
 Check resolution sizing & taskbar sizing.
-Check Edge settings.
 Host file:  http://winhelp2002.mvps.org/hosts.txt for ads.
 Powershell: Get-AppxPackage *xbox* | Remove-AppxPackage
 Disable Telemetry:
@@ -20,6 +19,9 @@ Disable Telemetry:
 
 cacls.exe "%programdata%\Microsoft\Diagnosis\ETLLogs\AutoLogger\AutoLogger-Diagtrack-Listener.etl" /d SYSTEM
 
+Optional:
+Check Edge settings.
+Configure Cortana.
 
 Create system restore point.
 Remove old windows.
