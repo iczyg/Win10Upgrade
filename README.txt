@@ -5,9 +5,9 @@ W10 Upgrade log by Simon Ho:
 
 Make sure enough space.
 Change Data (100 MB if there) to some drive letter, like Y:
-UAC on.
+Automatic Updates on. (learned hard way that if off, setup fails during one of the reboot iterations)
 
-Start W10 upg.
+START W10 upgrade.
 
 Check Wi-fi.  Settings > Net > Wifi > Manage settings.
 Check update torrent off.
@@ -22,6 +22,7 @@ cacls.exe "%programdata%\Microsoft\Diagnosis\ETLLogs\AutoLogger\AutoLogger-Diagt
 Optional:
 Check Edge settings.
 Configure Cortana.
+Bing-to-Google plugin -- Cortana is 'powered by Bing,' and this plugin changes Cortana's searches to use Google instead.
 
 Create system restore point.
 Remove old windows.
